@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Elders.Cronus.Dashboard",
   "resources": {
-    "hash": "sha256-wX+tKuHlouSYia12PxSVTPDhBtJ18cz7dCIXSTCYFQE=",
+    "hash": "sha256-VTGPmqFkgx350+DB5ru0JUTD+MKAVMebW3UUj7y4JSw=",
     "jsModuleNative": {
       "dotnet.native.8.0.1.o9nbmx7b5x.js": "sha256-0/zT4VaNGCA+pHb1kFPBvpg4SxIUr7P/pnheJknWyrQ="
     },
@@ -20,7 +20,7 @@
       "BlazorComponentUtilities.wasm": "sha256-oQvSWR3JOlm+ohv4ovIcQkgLnBzz+q8hRIwWOFZCd9I=",
       "Blazored.LocalStorage.wasm": "sha256-xHBGFCMjDjvvTwtMvgaMBNmQk9JdVhGmws2/GMZlxrI=",
       "BlazorPro.Spinkit.wasm": "sha256-IQlANxXKe2MbUR2gXAqzX+z6JMbE7zAfl7+HV2shzGc=",
-      "Elders.Cronus.Dashboard.wasm": "sha256-tUH0X0PC/b9Fa00oBZac4iubzmeQgAjFOrx6cyCmPsQ=",
+      "Elders.Cronus.Dashboard.wasm": "sha256-JGu3wbCVaRT/BVN3xNCOhjjo3R0Y7NVfMssaVUM+2UQ=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-8H8TaGUPCKh+vbEJ3c7JuM4yG44TdUAmBD3FSYQyp2U=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-dCX8hWJNT1HPYQzPKibr9SN3fdpB28xwIIiAw/eQVYo=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-5NaKUeigw630rE5gnuRnPbE9/57B+9Ygt5DEgspU2zM=",
